@@ -46,4 +46,4 @@ def check_allvowel(text_1:str, text_2:str)->bool:
             result = False
             break
     return result
-# print(check_allvowel("a", "Olma gilos"))
+# print(check_allvowel("a", "Olma gilos")
